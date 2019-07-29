@@ -25,8 +25,8 @@ Change variables at the beginning to suit your needs.
 
 ## Tested with
 
-* lame 3.99.5
-* Xcode 7.2
+* lame 3.100
+* Xcode 10.2.1
 
 ## License
 
