@@ -36,4 +36,4 @@ Apache V2
 
 Feedbacks are appreciated.
 
- ![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
+ ![image](https://github.com/sujiewen/lame-ios-build/blob/master/20160317102211974.png)
