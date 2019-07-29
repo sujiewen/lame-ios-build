@@ -35,3 +35,5 @@ Apache V2
 ## Feedback
 
 Feedbacks are appreciated.
+
+(https://github.com/sujiewen/lame-ios-build/blob/master/20160317102211974.png)
